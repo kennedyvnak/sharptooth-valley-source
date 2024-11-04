@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - InteractorPoint
+  - SceneAnchor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Wall
+  - RockFall
+  - Bastheet
+  - Followers
+  - 
+  - ForceField
+  - CharacterListeners
+  - RockTrigger
+  - Arrow
+  - 
+  - Interaction
+  - InteractionPoint
+  - Interactor
+  - InteractorPoint
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Horizon
+    uniqueID: 2614193887
+    locked: 0
+  - name: Background
+    uniqueID: 3095946705
+    locked: 0
+  - name: Middleground
+    uniqueID: 2564624667
+    locked: 0
+  - name: Characters
+    uniqueID: 3647751785
+    locked: 0
+  - name: Foreground
+    uniqueID: 1026874423
+    locked: 0
+  - name: UI
+    uniqueID: 3573698839
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
